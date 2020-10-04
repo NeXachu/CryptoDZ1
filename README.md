@@ -4,7 +4,7 @@ Program, that generates pseudo-random numbers for each line in file.
 
 Configuration
 
-main -f <file> -n <number cap> [-s <seed>]
+main -f &lt;file&gt; -n &lt;number cap&gt; [-s &lt;seed&gt;]
 
 default seed =1
 
