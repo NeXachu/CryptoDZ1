@@ -1,6 +1,6 @@
 Project Description
 
-Program, that generates pseudo-random numbers for each line in file.
+Program, that generates pseudorandom numbers for each line in file.
 
 Configuration
 
